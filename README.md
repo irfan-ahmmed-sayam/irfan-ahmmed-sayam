@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Irfan Ahmmed Sayam 👋
+# Hi, I'm Irfan Ahmmed 👋
 
 ### Network & System Engineer | CCNA | MikroTik  | Windows Server | Linux Server
 
