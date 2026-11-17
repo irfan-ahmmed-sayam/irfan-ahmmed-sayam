@@ -1,10 +1,22 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Irfan Ahmmed Sayam — Network and System Engineer focused on networking and server administration." width="100%">
-</picture>
+# Hi, I'm Irfan Ahmmed Sayam 👋
+
+### Network & System Engineer | CCNA | MikroTik  | Windows Server | Linux Server
+
+<p>
+  <a href="https://www.linkedin.com/in/irfan-ahmmed-sayam">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@themeaningofn">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+  <a href="https://www.facebook.com/irfan.ahmmed.sayam">
+    <img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook" alt="Facebook">
+  </a>
+</p>
+
+📍 Dhaka, Bangladesh
 
 </div>
 
@@ -14,7 +26,7 @@
 
 I am a Network & System Engineer with practical learning experience in networking, infrastructure, and server administration. I enjoy building hands-on lab environments, documenting configurations, troubleshooting technical issues, and continuously improving my skills.
 
-My current technical focus areas are **Networking (CCNA), MikroTik, Windows Server, and Linux Server Administration**.
+My current technical focus areas are **Networking (CCNA), MikroTik , Windows Server and Linux Server Administration**.
 
 - 🌐 Learning and practicing enterprise networking concepts.
 - 🖥️ Building Windows Server lab environments and documenting configurations.
@@ -25,50 +37,26 @@ My current technical focus areas are **Networking (CCNA), MikroTik, Windows Serv
 ## 🛠️ Technical Skills
 
 ### Networking
-- CCNA, Routing & Switching
-- VLAN Segmentation and Inter-VLAN Routing
-- OSPF and BGP Fundamentals
-- GRE VPN, NAT/PAT, and ACL
-- IPv4/IPv6 Subnetting
-- SSH and Network Troubleshooting
+- CCNA - Routing & Switching - VLAN Segmentation and Inter-VLAN Routing - OSPF and BGP Fundamentals - GRE VPN - NAT/PAT and ACL - IPv4/IPv6 Subnetting - SSH and Network Troubleshooting
 
 ### MikroTik & ISP Infrastructure
-- MikroTik RouterOS
-- Queues and Bandwidth Management
-- OLT and ONU Systems
-- Network Diagnostics and Infrastructure Troubleshooting
+- MikroTik RouterOS - Queues and Bandwidth Management - OLT and ONU Systems - Network Diagnostics - Infrastructure Troubleshooting
 
 ### Windows Server Administration
-- Windows Server 2016, 2019, and 2022
-- Active Directory Domain Services (AD DS)
-- Domain Controller and Additional Domain Controller
-- DNS and DHCP
-- Group Policy (GPO) and Organizational Units (OU)
-- Remote Desktop (RDP) Configuration
-- SMB File Sharing and Identity Management
+- Windows Server 2016, 2019, and 2022 - Active Directory Domain Services (AD DS) - Domain Controller and Additional Domain Controller - DNS and DHCP - Group Policy (GPO) and Organizational Units (OU) - Remote Desktop (RDP) Configuration - SMB File Sharing and Identity Management
 
 ### Linux & Operating Systems
-- Linux Fundamentals and Administration
-- Ubuntu
-- Kali Linux
+- Linux Fundamentals and Administration - Ubuntu - Kali Linux
 
 ### Tools & Platforms
-- Cisco Packet Tracer
-- VMware Workstation
-- Git and GitHub
-- Microsoft Office
-- Visual Studio Code
+- Cisco Packet Tracer - VMware Workstation - Git and GitHub - Microsoft Office -VS Code 
 
 ### Programming Fundamentals
-- C
-- C++
-- Java
-- JavaScript
+- C - C++ - Java - JavaScript
 
 ## 🚀 Projects & Practical Labs
 
 ### 1. IAS Limited – Multi-Branch WAN Architecture
-
 **Tools:** Cisco Packet Tracer
 
 Designed a three-branch enterprise network representing Dhaka, Cumilla, and Chattogram.
@@ -82,9 +70,7 @@ Designed a three-branch enterprise network representing Dhaka, Cumilla, and Chat
 🎥 **YouTube Video:** [Watch Project Demonstration](https://youtu.be/Xi3_XvCKv7E)
 
 ### 2. Windows Server Infrastructure & Administration Lab
-
-**Platform:** VMware Workstation  
-**Technology:** Windows Server
+**Platform:** VMware Workstation | **Technology:** Windows Server
 
 Built and practiced a Windows Server domain environment.
 
@@ -94,12 +80,11 @@ Built and practiced a Windows Server domain environment.
 - Configured Remote Desktop Services (RDS/RDP).
 - Documented practical tasks with screenshots and step-by-step notes.
 
-🔗 **GitHub Repository:** [Windows Server Administration Practical Learning Journey](https://github.com/irfan-ahmmed-sayam/Windows-Server-Administration-Practical-Learning-Journey)
+🔗 **Explore my repositories:** [GitHub Profile](https://github.com/irfan-ahmmed-sayam/Windows-Server-Administration-Practical-Learning-Journey)
 
 🎥 **YouTube Playlist:** [Watch Complete Learning Series](https://youtube.com/playlist?list=PLIEgi_iIRtLI&si=_ZNz737lzJe94scf)
 
 ### 3. CCNA – Networking Practical Learning
-
 **Platform:** Cisco Packet Tracer
 
 Practicing networking concepts through hands-on labs and configuration documentation.
@@ -112,7 +97,7 @@ Practicing networking concepts through hands-on labs and configuration documenta
 - GRE Tunneling
 - Router and Switch Management
 
-🔗 **GitHub Repository:** [CCNA – In 25 Days](https://github.com/irfan-ahmmed-sayam/CCNA-In-25-Days)
+🔗 **Explore my repositories:** [GitHub Profile](https://github.com/irfan-ahmmed-sayam/CCNA-In-25-Days)
 
 🎥 **YouTube Playlist:** [Watch CCNA Practical Series](https://youtube.com/playlist?list=PLRZ6sHBdGUf8&si=4aMkKqcOo66e-EcH)
 
