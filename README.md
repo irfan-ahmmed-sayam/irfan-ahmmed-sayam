@@ -1,15 +1,10 @@
-import pypandoc
-
-readme = r'''<div align="center">
+<div align="center">
 
 # Hi, I'm Irfan Ahmmed Sayam 👋
 
-### Network & System Engineer | Networking | Windows Server | MikroTik | Linux
+### Network & System Engineer | CCNA | Windows Server | MikroTik | Linux Server
 
 <p>
-  <a href="https://github.com/irfan-ahmmed-sayam">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/irfan-ahmmed-sayam">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
@@ -31,7 +26,7 @@ readme = r'''<div align="center">
 
 I am a Network & System Engineer with practical learning experience in networking, infrastructure, and server administration. I enjoy building hands-on lab environments, documenting configurations, troubleshooting technical issues, and continuously improving my skills.
 
-My current technical focus areas are **Networking (CCNA), Windows Server, MikroTik, and Linux Server Administration**. I am interested in **NOC and System Administration** roles where I can apply my knowledge, solve real-world technical problems, and continue developing professionally.
+My current technical focus areas are **Networking (CCNA), Windows Server, MikroTik, and Linux Server Administration**.
 
 - 🌐 Learning and practicing enterprise networking concepts.
 - 🖥️ Building Windows Server lab environments and documenting configurations.
@@ -42,7 +37,7 @@ My current technical focus areas are **Networking (CCNA), Windows Server, MikroT
 ## 🛠️ Technical Skills
 
 ### Networking
-- CCNA Fundamentals
+- CCNA
 - Routing & Switching
 - VLAN Segmentation and Inter-VLAN Routing
 - OSPF and BGP Fundamentals
@@ -70,7 +65,6 @@ My current technical focus areas are **Networking (CCNA), Windows Server, MikroT
 ### Linux & Operating Systems
 - Linux Fundamentals and Administration
 - Ubuntu
-- CentOS
 - Kali Linux
 
 ### Tools & Platforms
@@ -98,6 +92,8 @@ Designed a three-branch enterprise network representing Dhaka, Cumilla, and Chat
 
 🔗 **Project Repository:** [IAS Limited Multi-Branch WAN Architecture](https://github.com/irfan-ahmmed-sayam/ias-limited-multi-branch-wan-architecture)
 
+🎥 **YouTube Video:** [Watch Project Demonstration](https://youtu.be/Xi3_XvCKv7E)
+
 ### 2. Windows Server Infrastructure & Administration Lab
 **Platform:** VMware Workstation | **Technology:** Windows Server
 
@@ -109,7 +105,9 @@ Built and practiced a Windows Server domain environment.
 - Configured Remote Desktop Services (RDS/RDP).
 - Documented practical tasks with screenshots and step-by-step notes.
 
-🔗 **Explore my repositories:** [GitHub Profile](https://github.com/irfan-ahmmed-sayam)
+🔗 **Explore my repositories:** [GitHub Profile](https://github.com/irfan-ahmmed-sayam/Windows-Server-Administration-Practical-Learning-Journey)
+
+🎥 **YouTube Playlist:** [Watch Complete Learning Series](https://youtube.com/playlist?list=PLIEgi_iIRtLI&si=_ZNz737lzJe94scf)
 
 ### 3. CCNA – Networking Practical Learning
 **Platform:** Cisco Packet Tracer
@@ -124,7 +122,9 @@ Practicing networking concepts through hands-on labs and configuration documenta
 - GRE Tunneling
 - Router and Switch Management
 
-🔗 **Explore my repositories:** [GitHub Profile](https://github.com/irfan-ahmmed-sayam)
+🔗 **Explore my repositories:** [GitHub Profile](https://github.com/irfan-ahmmed-sayam/CCNA-In-25-Days)
+
+🎥 **YouTube Playlist:** [Watch CCNA Practical Series](https://youtube.com/playlist?list=PLRZ6sHBdGUf8&si=4aMkKqcOo66e-EcH)
 
 ## 🎓 Education & Qualifications
 
@@ -143,17 +143,6 @@ My documentation is organized into topic-based repositories and day-by-day folde
 - **CCNA:** Networking labs and configuration practice.
 - **MikroTik:** RouterOS and network infrastructure practice.
 - **Linux Server:** Linux fundamentals and administration practice.
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=irfan-ahmmed-sayam&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-ahmmed-sayam&layout=compact&hide_border=true" alt="Most used languages">
-
-<img src="https://streak-stats.demolab.com?user=irfan-ahmmed-sayam&hide_border=true" alt="GitHub streak">
-
-</div>
 
 ## 🤝 Connect With Me
 
