@@ -26,7 +26,7 @@
 
 I am a Network & System Engineer with practical learning experience in networking, infrastructure, and server administration. I enjoy building hands-on lab environments, documenting configurations, troubleshooting technical issues, and continuously improving my skills.
 
-My current technical focus areas are **Networking (CCNA), Windows Server, MikroTik, and Linux Server Administration**.
+My current technical focus areas are **Networking (CCNA), MikroTik , Windows Server and Linux Server Administration**.
 
 - 🌐 Learning and practicing enterprise networking concepts.
 - 🖥️ Building Windows Server lab environments and documenting configurations.
@@ -37,47 +37,22 @@ My current technical focus areas are **Networking (CCNA), Windows Server, MikroT
 ## 🛠️ Technical Skills
 
 ### Networking
-- CCNA
-- Routing & Switching
-- VLAN Segmentation and Inter-VLAN Routing
-- OSPF and BGP Fundamentals
-- GRE VPN
-- NAT/PAT and ACL
-- IPv4/IPv6 Subnetting
-- SSH and Network Troubleshooting
-
-### Windows Server Administration
-- Windows Server 2016, 2019, and 2022
-- Active Directory Domain Services (AD DS)
-- Domain Controller and Additional Domain Controller
-- DNS and DHCP
-- Group Policy (GPO) and Organizational Units (OU)
-- Remote Desktop (RDP) Configuration
-- SMB File Sharing and Identity Management
+- CCNA - Routing & Switching - VLAN Segmentation and Inter-VLAN Routing - OSPF and BGP Fundamentals - GRE VPN - NAT/PAT and ACL - IPv4/IPv6 Subnetting - SSH and Network Troubleshooting
 
 ### MikroTik & ISP Infrastructure
-- MikroTik RouterOS
-- Queues and Bandwidth Management
-- OLT and ONU Systems
-- Network Diagnostics
-- Infrastructure Troubleshooting
+- MikroTik RouterOS - Queues and Bandwidth Management - OLT and ONU Systems - Network Diagnostics - Infrastructure Troubleshooting
+
+### Windows Server Administration
+- Windows Server 2016, 2019, and 2022 - Active Directory Domain Services (AD DS) - Domain Controller and Additional Domain Controller - DNS and DHCP - Group Policy (GPO) and Organizational Units (OU) - Remote Desktop (RDP) Configuration - SMB File Sharing and Identity Management
 
 ### Linux & Operating Systems
-- Linux Fundamentals and Administration
-- Ubuntu
-- Kali Linux
+- Linux Fundamentals and Administration - Ubuntu - Kali Linux
 
 ### Tools & Platforms
-- Cisco Packet Tracer
-- VMware Workstation
-- Git and GitHub
-- Microsoft Office
+- Cisco Packet Tracer - VMware Workstation - Git and GitHub - Microsoft Office -VS Code 
 
 ### Programming Fundamentals
-- C
-- C++
-- Java
-- JavaScript
+- C - C++ - Java - JavaScript
 
 ## 🚀 Projects & Practical Labs
 
@@ -159,8 +134,3 @@ My documentation is organized into topic-based repositories and day-by-day folde
 **“Learning by doing, documenting every step, and improving every day.”**
 
 </div>
-'''
-
-out = "/mnt/data/README.md"
-pypandoc.convert_text(readme, "md", format="md", outputfile=out, extra_args=["--standalone"])
-print(out)
